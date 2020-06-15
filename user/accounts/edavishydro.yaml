@@ -6,6 +6,7 @@ access:
   admin:
     super: 'true'
     login: 'true'
+    users: 'true'
   site:
     login: 'true'
 hashed_password: $2y$10$mbc3Qedl2T2W.ZL1E.nLfO9V86Tr9PxFNgOqqOk3SOPtQuoaXhp46

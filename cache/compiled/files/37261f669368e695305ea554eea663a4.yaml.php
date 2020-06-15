@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/edward/Downloads/tgaec-main/user/config/system.yaml',
-    'modified' => 1592252459,
+    'modified' => 1592252728,
     'data' => [
         'absolute_urls' => false,
         'home' => [
