@@ -1,0 +1,11 @@
+state: enabled
+email: bmurphy@tgaec.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Brian Murphy'
+title: 'GIS Specialist'
+hashed_password: $2y$10$1HtzS.i/ZNAk.ltPCn5Dueokfie6z53qGW3KV6NuGlqMcGn.SKL4K
