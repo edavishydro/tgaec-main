@@ -17,7 +17,6 @@
   }
 
   &.small {
-
     .columns {
       margin-top: -1rem;
     }
@@ -32,7 +31,6 @@
       display: block;
       justify-content: left;
 
-
       i {
         position: relative;
         display: inherit;
@@ -43,7 +41,6 @@
         top: auto;
         color: $gray-color;
         @extend .default-animation;
-
       }
       h6 {
         text-transform: none;

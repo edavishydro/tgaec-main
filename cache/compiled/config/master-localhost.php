@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1592252797,
-    'checksum' => 'b1caeeb64e65feef64c00644ab9f3d94',
+    'timestamp' => 1592340858,
+    'checksum' => '543de166c545115f237965c0bb3d2188',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -23,7 +23,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1592252223
+                'modified' => 1592334458
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -31,7 +31,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1592252728
+                'modified' => 1592340855
             ]
         ],
         'system/config' => [
@@ -637,11 +637,11 @@ node_modules'
             'salt' => '958QKMm2pPdqFY'
         ],
         'site' => [
-            'title' => 'Grav',
+            'title' => 'TGAEC',
             'default_lang' => 'en',
             'author' => [
-                'name' => 'Joe Bloggs',
-                'email' => 'joe@example.com'
+                'name' => 'TGEAC Team',
+                'email' => 'tgast@tgaec.com'
             ],
             'taxonomies' => [
                 0 => 'category',
