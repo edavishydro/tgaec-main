@@ -1,395 +1,395 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1592340859,
-    'checksum' => '6e4b5437762f3d756ec34bc439205b50',
+    'timestamp' => 1592348417,
+    'checksum' => 'a6586d7a489e0ae729d3d816466cd6d4',
     'files' => [
         'system/languages' => [
             'ar' => [
                 'file' => 'system/languages/ar.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'bg' => [
                 'file' => 'system/languages/bg.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'ca' => [
                 'file' => 'system/languages/ca.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'cs' => [
                 'file' => 'system/languages/cs.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'da' => [
                 'file' => 'system/languages/da.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'de' => [
                 'file' => 'system/languages/de.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'el' => [
                 'file' => 'system/languages/el.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'en' => [
                 'file' => 'system/languages/en.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'es' => [
                 'file' => 'system/languages/es.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'et' => [
                 'file' => 'system/languages/et.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'eu' => [
                 'file' => 'system/languages/eu.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'fa' => [
                 'file' => 'system/languages/fa.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'fi' => [
                 'file' => 'system/languages/fi.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'fr' => [
                 'file' => 'system/languages/fr.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'he' => [
                 'file' => 'system/languages/he.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'hr' => [
                 'file' => 'system/languages/hr.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'hu' => [
                 'file' => 'system/languages/hu.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'id' => [
                 'file' => 'system/languages/id.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'is' => [
                 'file' => 'system/languages/is.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'it' => [
                 'file' => 'system/languages/it.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'ja' => [
                 'file' => 'system/languages/ja.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'ko' => [
                 'file' => 'system/languages/ko.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'lt' => [
                 'file' => 'system/languages/lt.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'nb' => [
                 'file' => 'system/languages/nb.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'nl' => [
                 'file' => 'system/languages/nl.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'no' => [
                 'file' => 'system/languages/no.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'pl' => [
                 'file' => 'system/languages/pl.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'pt' => [
                 'file' => 'system/languages/pt.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'ro' => [
                 'file' => 'system/languages/ro.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'ru' => [
                 'file' => 'system/languages/ru.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'sk' => [
                 'file' => 'system/languages/sk.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'sl' => [
                 'file' => 'system/languages/sl.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'sv' => [
                 'file' => 'system/languages/sv.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'th' => [
                 'file' => 'system/languages/th.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'tr' => [
                 'file' => 'system/languages/tr.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'uk' => [
                 'file' => 'system/languages/uk.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'vi' => [
                 'file' => 'system/languages/vi.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'zh' => [
                 'file' => 'system/languages/zh.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ],
             'zh-tw' => [
                 'file' => 'system/languages/zh-tw.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348366
             ]
         ],
         'user/plugins' => [
-            'plugins/markdown-notices' => [
-                'file' => 'user/plugins/markdown-notices/languages.yaml',
-                'modified' => 1591763832
-            ],
-            'plugins/form' => [
-                'file' => 'user/plugins/form/languages.yaml',
-                'modified' => 1591763834
-            ],
-            'plugins/problems' => [
-                'file' => 'user/plugins/problems/languages.yaml',
-                'modified' => 1591763832
+            'plugins/email' => [
+                'file' => 'user/plugins/email/languages.yaml',
+                'modified' => 1592348367
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/languages.yaml',
-                'modified' => 1591763832
+                'modified' => 1592348367
             ],
-            'plugins/email' => [
-                'file' => 'user/plugins/email/languages.yaml',
-                'modified' => 1592250629
+            'plugins/form' => [
+                'file' => 'user/plugins/form/languages.yaml',
+                'modified' => 1592348367
+            ],
+            'plugins/markdown-notices' => [
+                'file' => 'user/plugins/markdown-notices/languages.yaml',
+                'modified' => 1592348367
+            ],
+            'plugins/problems' => [
+                'file' => 'user/plugins/problems/languages.yaml',
+                'modified' => 1592348367
             ]
         ],
         'user/plugins/admin/languages' => [
             'ar' => [
                 'file' => 'user/plugins/admin/languages/ar.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'bg' => [
                 'file' => 'user/plugins/admin/languages/bg.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'br' => [
                 'file' => 'user/plugins/admin/languages/br.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'ca' => [
                 'file' => 'user/plugins/admin/languages/ca.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'cs' => [
                 'file' => 'user/plugins/admin/languages/cs.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'cy' => [
                 'file' => 'user/plugins/admin/languages/cy.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'da' => [
                 'file' => 'user/plugins/admin/languages/da.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'de' => [
                 'file' => 'user/plugins/admin/languages/de.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'el' => [
                 'file' => 'user/plugins/admin/languages/el.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'en' => [
                 'file' => 'user/plugins/admin/languages/en.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'es' => [
                 'file' => 'user/plugins/admin/languages/es.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'et' => [
                 'file' => 'user/plugins/admin/languages/et.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'eu' => [
                 'file' => 'user/plugins/admin/languages/eu.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'fa' => [
                 'file' => 'user/plugins/admin/languages/fa.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'fi' => [
                 'file' => 'user/plugins/admin/languages/fi.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'fr' => [
                 'file' => 'user/plugins/admin/languages/fr.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'he' => [
                 'file' => 'user/plugins/admin/languages/he.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'hr' => [
                 'file' => 'user/plugins/admin/languages/hr.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'hu' => [
                 'file' => 'user/plugins/admin/languages/hu.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'id' => [
                 'file' => 'user/plugins/admin/languages/id.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'it' => [
                 'file' => 'user/plugins/admin/languages/it.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'ja' => [
                 'file' => 'user/plugins/admin/languages/ja.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'ko' => [
                 'file' => 'user/plugins/admin/languages/ko.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'lt' => [
                 'file' => 'user/plugins/admin/languages/lt.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'nl' => [
                 'file' => 'user/plugins/admin/languages/nl.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'no' => [
                 'file' => 'user/plugins/admin/languages/no.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'pl' => [
                 'file' => 'user/plugins/admin/languages/pl.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'pt' => [
                 'file' => 'user/plugins/admin/languages/pt.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'ro' => [
                 'file' => 'user/plugins/admin/languages/ro.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'ru' => [
                 'file' => 'user/plugins/admin/languages/ru.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'sk' => [
                 'file' => 'user/plugins/admin/languages/sk.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'sl' => [
                 'file' => 'user/plugins/admin/languages/sl.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'sr' => [
                 'file' => 'user/plugins/admin/languages/sr.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'sv' => [
                 'file' => 'user/plugins/admin/languages/sv.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'th' => [
                 'file' => 'user/plugins/admin/languages/th.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'tlh' => [
                 'file' => 'user/plugins/admin/languages/tlh.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'tr' => [
                 'file' => 'user/plugins/admin/languages/tr.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'uk' => [
                 'file' => 'user/plugins/admin/languages/uk.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'vi' => [
                 'file' => 'user/plugins/admin/languages/vi.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'zh' => [
                 'file' => 'user/plugins/admin/languages/zh.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'zh-tw' => [
                 'file' => 'user/plugins/admin/languages/zh-tw.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ]
         ],
         'user/plugins/login/languages' => [
             'de' => [
                 'file' => 'user/plugins/login/languages/de.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'en' => [
                 'file' => 'user/plugins/login/languages/en.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'es' => [
                 'file' => 'user/plugins/login/languages/es.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'fr' => [
                 'file' => 'user/plugins/login/languages/fr.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'hr' => [
                 'file' => 'user/plugins/login/languages/hr.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'hu' => [
                 'file' => 'user/plugins/login/languages/hu.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'no' => [
                 'file' => 'user/plugins/login/languages/no.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'ro' => [
                 'file' => 'user/plugins/login/languages/ro.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'ru' => [
                 'file' => 'user/plugins/login/languages/ru.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ],
             'uk' => [
                 'file' => 'user/plugins/login/languages/uk.yaml',
-                'modified' => 1591763834
+                'modified' => 1592348367
             ]
         ]
     ],
@@ -1305,6 +1305,15 @@ Sie haben **2FA** für dieses Konto aktiviert. Bitte benutzen Sie Ihre **2FA** A
                 'COMMAND' => 'Befehl',
                 'EXTRA_ARGUMENTS' => 'Zusätzliche Argumente'
             ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'E-Mail ist nicht konfiguriert',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Bitte konfigurieren sie eine \'An\' (\'to\') Adresse in den Email-Plugin-Einstellungen oder im Formular.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Bitte konfigurieren sie eine \'Von\' (\'from\') Adresse in den Email-Plugin-Einstellungen oder im Formular.'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Fehler',
+                'ERROR_MESSAGE' => 'Uuups. Sieht aus als ob diese Seite nicht existiert.'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formularwerte nicht gültig. Für ein oder mehrere erforderliche Felder fehlen Werte.',
                 'NONCE_NOT_VALIDATED' => 'Ups, es gibt da ein Problem. Eingabewerte bitte noch mal prüfen und das Formular erneut absenden.',
@@ -1354,15 +1363,6 @@ Sie haben **2FA** für dieses Konto aktiviert. Bitte benutzen Sie Ihre **2FA** A
                 'DESTINATION_NOT_SPECIFIED' => 'Zielort nicht definiert',
                 'INVALID_MIME_TYPE' => 'Der MIME-Type %s für die Datei %s ist nicht erlaubt.',
                 'INVALID_FILE_EXTENSION' => 'Die Dateiendung %s ist nicht erlaubt.'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Fehler',
-                'ERROR_MESSAGE' => 'Uuups. Sieht aus als ob diese Seite nicht existiert.'
-            ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'E-Mail ist nicht konfiguriert',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Bitte konfigurieren sie eine \'An\' (\'to\') Adresse in den Email-Plugin-Einstellungen oder im Formular.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Bitte konfigurieren sie eine \'Von\' (\'from\') Adresse in den Email-Plugin-Einstellungen oder im Formular.'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -2520,14 +2520,66 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'VALID_LINK_ATTRIBUTES' => 'Valid Link Attributes',
                 'VALID_LINK_ATTRIBUTES_HELP' => 'Attributes that will be automatically added to the media HTML element'
             ],
-            'PLUGIN_MARKDOWN_NOTICES' => [
-                'USE_BUILT_IN_CSS' => 'Use built-in CSS',
-                'BASE_CLASSES' => 'Base classes',
-                'BASE_CLASSES_HELP' => 'These classes will be added before the class level',
-                'BASE_CLASSES_PLACEHOLDER' => 'e.g. notices',
-                'LEVEL_CLASSES' => 'Level classes',
-                'LEVEL_CLASSES_HELP' => 'The classes to use for each level of notices depth',
-                'LEVEL_CLASSES_PLACEHOLDER' => 'e.g. yellow, red, blue, green'
+            'PLUGIN_EMAIL' => [
+                'MAIL_ENGINE' => 'Mail Engine',
+                'MAIL_ENGINE_DISABLED' => 'Disabled',
+                'CONTENT_TYPE' => 'Content type',
+                'CONTENT_TYPE_PLAIN_TEXT' => 'Plain text',
+                'CHARSET' => 'Charset',
+                'CHARSET_PLACEHOLDER' => 'Defaults to UTF-8',
+                'EMAIL_FORM' => 'From address',
+                'EMAIL_FORM_PLACEHOLDER' => 'Default email from address',
+                'EMAIL_FROM_NAME' => 'From name',
+                'EMAIL_FROM_NAME_PLACEHOLDER' => 'Default email from name',
+                'EMAIL_TO' => 'To address',
+                'EMAIL_TO_PLACEHOLDER' => 'Default email to address',
+                'EMAIL_TO_NAME' => 'To name',
+                'EMAIL_TO_NAME_PLACEHOLDER' => 'Default email to name',
+                'EMAIL_CC' => 'CC address',
+                'EMAIL_CC_PLACEHOLDER' => 'Default email CC address',
+                'EMAIL_CC_NAME' => 'CC name',
+                'EMAIL_CC_NAME_PLACEHOLDER' => 'Default email CC name',
+                'EMAIL_BCC' => 'BCC address',
+                'EMAIL_BCC_PLACEHOLDER' => 'Default email BCC address',
+                'EMAIL_REPLY_TO' => 'Reply-to address',
+                'EMAIL_REPLY_TO_PLACEHOLDER' => 'Default email reply-to address',
+                'EMAIL_REPLY_TO_NAME' => 'Reply-to name',
+                'EMAIL_REPLY_TO_NAME_PLACEHOLDER' => 'Default email reply-to name',
+                'EMAIL_BODY' => 'Body',
+                'EMAIL_BODY_PLACEHOLDER' => 'Defaults to a table of all form fields',
+                'SMTP_SERVER' => 'SMTP server',
+                'SMTP_SERVER_PLACEHOLDER' => 'e.g. smtp.google.com',
+                'SMTP_PORT' => 'SMTP port',
+                'SMTP_PORT_PLACEHOLDER' => 'Defaults to 25 (plaintext) / 587 (encrypted)',
+                'SMTP_ENCRYPTION' => 'SMTP encryption',
+                'SMTP_ENCRYPTION_NONE' => 'None',
+                'SMTP_LOGIN_NAME' => 'SMTP login name',
+                'SMTP_PASSWORD' => 'SMTP password',
+                'PATH_TO_SENDMAIL' => 'Path to sendmail',
+                'DEBUG' => 'Debug',
+                'EMAIL_NOT_CONFIGURED' => 'Email not configured',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Please configure a \'to\' address in the Email Plugin settings, or in the form',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Please configure a \'from\' address in the Email Plugin settings, or in the form',
+                'TEST_EMAIL_BODY' => '<h1>Testing Email</h1><p>This test email has been sent based on the following configuration:</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_DEFAULTS' => 'Email Defaults',
+                'SMTP_CONFIGURATION' => 'SMTP Configuration',
+                'SENDMAIL_CONFIGURATION' => 'Sendmail Configuration',
+                'ADVANCED' => 'Advanced',
+                'EMAIL_FOOTER' => 'GetGrav.org',
+                'QUEUE_TITLE' => 'Email Queue',
+                'QUEUE_DESC' => 'When you enable the email queue, email is not <i>sent immediately</i>, rather the email is sent to the queue, and then the Grav <strong>scheduler will flush the queue</strong> and actually send the email based on the configured frequency.  This ensures Grav is not waiting around for email connections to complete.',
+                'QUEUE_ENABLED' => 'Enabled',
+                'QUEUE_FLUSH_FREQUENCY' => 'Flush Frequency',
+                'QUEUE_FLUSH_FREQUENCY_HELP' => 'Use \'cron\' format',
+                'QUEUE_FLUSH_MSG_LIMIT' => 'Messages per flush',
+                'QUEUE_FLUSH_MSG_LIMIT_APPEND' => 'Messages',
+                'QUEUE_FLUSH_TIME_LIMIT' => 'Flush time limit',
+                'QUEUE_FLUSH_TIME_LIMIT_APPEND' => 'Seconds'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Error',
+                'ERROR_MESSAGE' => 'Woops. Looks like this page doesn\'t exist.',
+                'ROUTE_404' => '404 Route'
             ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Form not validated. One or more required fields are missing.',
@@ -2594,70 +2646,18 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'INVALID_MIME_TYPE' => 'The MIME type %s for the file %s is not accepted.',
                 'INVALID_FILE_EXTENSION' => 'The File Extension for the file %s is not accepted.'
             ],
+            'PLUGIN_MARKDOWN_NOTICES' => [
+                'USE_BUILT_IN_CSS' => 'Use built-in CSS',
+                'BASE_CLASSES' => 'Base classes',
+                'BASE_CLASSES_HELP' => 'These classes will be added before the class level',
+                'BASE_CLASSES_PLACEHOLDER' => 'e.g. notices',
+                'LEVEL_CLASSES' => 'Level classes',
+                'LEVEL_CLASSES_HELP' => 'The classes to use for each level of notices depth',
+                'LEVEL_CLASSES_PLACEHOLDER' => 'e.g. yellow, red, blue, green'
+            ],
             'PLUGIN_PROBLEMS' => [
                 'BUILTIN_CSS' => 'Use built in CSS',
                 'BUILTIN_CSS_HELP' => 'Include the CSS provided by the Problems plugin'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Error',
-                'ERROR_MESSAGE' => 'Woops. Looks like this page doesn\'t exist.',
-                'ROUTE_404' => '404 Route'
-            ],
-            'PLUGIN_EMAIL' => [
-                'MAIL_ENGINE' => 'Mail Engine',
-                'MAIL_ENGINE_DISABLED' => 'Disabled',
-                'CONTENT_TYPE' => 'Content type',
-                'CONTENT_TYPE_PLAIN_TEXT' => 'Plain text',
-                'CHARSET' => 'Charset',
-                'CHARSET_PLACEHOLDER' => 'Defaults to UTF-8',
-                'EMAIL_FORM' => 'From address',
-                'EMAIL_FORM_PLACEHOLDER' => 'Default email from address',
-                'EMAIL_FROM_NAME' => 'From name',
-                'EMAIL_FROM_NAME_PLACEHOLDER' => 'Default email from name',
-                'EMAIL_TO' => 'To address',
-                'EMAIL_TO_PLACEHOLDER' => 'Default email to address',
-                'EMAIL_TO_NAME' => 'To name',
-                'EMAIL_TO_NAME_PLACEHOLDER' => 'Default email to name',
-                'EMAIL_CC' => 'CC address',
-                'EMAIL_CC_PLACEHOLDER' => 'Default email CC address',
-                'EMAIL_CC_NAME' => 'CC name',
-                'EMAIL_CC_NAME_PLACEHOLDER' => 'Default email CC name',
-                'EMAIL_BCC' => 'BCC address',
-                'EMAIL_BCC_PLACEHOLDER' => 'Default email BCC address',
-                'EMAIL_REPLY_TO' => 'Reply-to address',
-                'EMAIL_REPLY_TO_PLACEHOLDER' => 'Default email reply-to address',
-                'EMAIL_REPLY_TO_NAME' => 'Reply-to name',
-                'EMAIL_REPLY_TO_NAME_PLACEHOLDER' => 'Default email reply-to name',
-                'EMAIL_BODY' => 'Body',
-                'EMAIL_BODY_PLACEHOLDER' => 'Defaults to a table of all form fields',
-                'SMTP_SERVER' => 'SMTP server',
-                'SMTP_SERVER_PLACEHOLDER' => 'e.g. smtp.google.com',
-                'SMTP_PORT' => 'SMTP port',
-                'SMTP_PORT_PLACEHOLDER' => 'Defaults to 25 (plaintext) / 587 (encrypted)',
-                'SMTP_ENCRYPTION' => 'SMTP encryption',
-                'SMTP_ENCRYPTION_NONE' => 'None',
-                'SMTP_LOGIN_NAME' => 'SMTP login name',
-                'SMTP_PASSWORD' => 'SMTP password',
-                'PATH_TO_SENDMAIL' => 'Path to sendmail',
-                'DEBUG' => 'Debug',
-                'EMAIL_NOT_CONFIGURED' => 'Email not configured',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Please configure a \'to\' address in the Email Plugin settings, or in the form',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Please configure a \'from\' address in the Email Plugin settings, or in the form',
-                'TEST_EMAIL_BODY' => '<h1>Testing Email</h1><p>This test email has been sent based on the following configuration:</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_DEFAULTS' => 'Email Defaults',
-                'SMTP_CONFIGURATION' => 'SMTP Configuration',
-                'SENDMAIL_CONFIGURATION' => 'Sendmail Configuration',
-                'ADVANCED' => 'Advanced',
-                'EMAIL_FOOTER' => 'GetGrav.org',
-                'QUEUE_TITLE' => 'Email Queue',
-                'QUEUE_DESC' => 'When you enable the email queue, email is not <i>sent immediately</i>, rather the email is sent to the queue, and then the Grav <strong>scheduler will flush the queue</strong> and actually send the email based on the configured frequency.  This ensures Grav is not waiting around for email connections to complete.',
-                'QUEUE_ENABLED' => 'Enabled',
-                'QUEUE_FLUSH_FREQUENCY' => 'Flush Frequency',
-                'QUEUE_FLUSH_FREQUENCY_HELP' => 'Use \'cron\' format',
-                'QUEUE_FLUSH_MSG_LIMIT' => 'Messages per flush',
-                'QUEUE_FLUSH_MSG_LIMIT_APPEND' => 'Messages',
-                'QUEUE_FLUSH_TIME_LIMIT' => 'Flush time limit',
-                'QUEUE_FLUSH_TIME_LIMIT_APPEND' => 'Seconds'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -3715,6 +3715,10 @@ Tienes **2FA** habilitado en esta cuenta. Por favor usa tu aplicación **2FA** p
                 'XSS_WHITELIST_PERMISSIONS' => 'Permisos de lista blanca',
                 'XSS_WHITELIST_PERMISSIONS_HELP' => 'Los usuarios con estos permisos omitirán las reglas XSS al guardar contenido'
             ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Por favor configura una dirección de \'remitente\' en la configuración del Plugin de Email o en el formulario',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Por favor configura una dirección de \'destinatario\' en la configuración del Plugin de Email o en el formulario'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Falló la validación del formulario. Uno o más campos obligatorios no fueron cubiertos.',
                 'NONCE_NOT_VALIDATED' => 'Oops, hay un problema, por favor revise la información e intente enviar el formulario otra vez.',
@@ -3769,10 +3773,6 @@ Tienes **2FA** habilitado en esta cuenta. Por favor usa tu aplicación **2FA** p
                 'INLINE_ERRORS_HELP' => 'Útil con \'validación del lado del cliente\' desactivado, muestra errores en el formulario contextual en línea',
                 'RESOLUTION_MIN' => '{{attr}} fué menor que el mínimo {{min}}px <br />',
                 'RESOLUTION_MAX' => '{{attr}} fué mayor que el máximo {{max}}px <br />'
-            ],
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Por favor configura una dirección de \'remitente\' en la configuración del Plugin de Email o en el formulario',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Por favor configura una dirección de \'destinatario\' en la configuración del Plugin de Email o en el formulario'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -4809,6 +4809,17 @@ L\'**authentification à deux facteurs** est activée sur ce compte. Veuillez ut
                 'COMMAND' => 'Commande',
                 'EXTRA_ARGUMENTS' => 'Arguments supplémentaires'
             ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'L’e-mail n’est pas configuré',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Veuillez configurer une adresse de \'destinataire\' dans les paramètres du Plugin ou dans le formulaire.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Veuillez configurer une adresse \'d\'expéditeur\' dans les paramètres du Plugin ou dans le formulaire.',
+                'TEST_EMAIL_BODY' => '<h1>E-mail de test</h1><p>Cet e-mail de test est basé sur la configuration suivante :</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Erreur',
+                'ERROR_MESSAGE' => 'Oups. Il semble que cette page n’existe pas.'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formulaire non validé. Un ou plusieurs champs obligatoires sont manquants.',
                 'NONCE_NOT_VALIDATED' => 'Oups, un problème est survenu. Veuillez vérifier votre saisie et soumettre à nouveau le formulaire.',
@@ -4864,17 +4875,6 @@ L\'**authentification à deux facteurs** est activée sur ce compte. Veuillez ut
                 'DESTINATION_NOT_SPECIFIED' => 'La destination n’est pas indiquée.',
                 'INVALID_MIME_TYPE' => 'Le type MIME %s pour le fichier %s n’est pas accepté.',
                 'INVALID_FILE_EXTENSION' => 'L’extension pour le fichier %s n’est pas acceptée.'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Erreur',
-                'ERROR_MESSAGE' => 'Oups. Il semble que cette page n’existe pas.'
-            ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'L’e-mail n’est pas configuré',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Veuillez configurer une adresse de \'destinataire\' dans les paramètres du Plugin ou dans le formulaire.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Veuillez configurer une adresse \'d\'expéditeur\' dans les paramètres du Plugin ou dans le formulaire.',
-                'TEST_EMAIL_BODY' => '<h1>E-mail de test</h1><p>Cet e-mail de test est basé sur la configuration suivante :</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -5686,6 +5686,15 @@ Chemin: `%2$s`
                 'TOOLS_DIRECT_INSTALL_URL_TITLE' => 'Instaliraj Paket kroz link',
                 'TOOLS_DIRECT_INSTALL_UPLOAD_BUTTON' => 'Uploadaj i instaliraj'
             ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Email nije konfiguriran',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurirajte \'za\' (\'to\') adresu u postavkama Email dodatka ili u obrascu',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurirajte \'od\' (\'from\') adresu u postavkama Email dodatka ili u obrascu'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Greška',
+                'ERROR_MESSAGE' => 'Uups. Izgleda da ova stranica ne postoji.'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formular nije validiran. Jedan ili više traženih polja nedostaju.',
                 'NONCE_NOT_VALIDATED' => 'Ups, došlo je do problema, molimo provjerite svoj unos i pokušajte opet.',
@@ -5696,15 +5705,6 @@ Chemin: `%2$s`
                 'ACCEPT' => 'Dopušteni MIME Tipovi',
                 'ACCEPT_HELP' => 'Lista dopuštenih MIME Tipova koji su dozvoljeni za upload',
                 'ERROR_VALIDATING_CAPTCHA' => 'Greška pri validiranju Captcha'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Greška',
-                'ERROR_MESSAGE' => 'Uups. Izgleda da ova stranica ne postoji.'
-            ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Email nije konfiguriran',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurirajte \'za\' (\'to\') adresu u postavkama Email dodatka ili u obrascu',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurirajte \'od\' (\'from\') adresu u postavkama Email dodatka ili u obrascu'
             ],
             'GRAV' => [
                 'INFLECTOR_UNCOUNTABLE' => [
@@ -8542,6 +8542,15 @@ Aveți **2FA** activată pentru acest cont. Vă rugăm folosiți aplicația pent
                 'COMMAND' => 'Comandă',
                 'EXTRA_ARGUMENTS' => 'Argumente extra'
             ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Adresa de email nu este configurată',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Vă rugam setați o adresă \'către\' în setările modulului Email sau în formular',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Vă rugam setați o adresă \'de la\' în setările modulului Email sau în formular'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Eroare',
+                'ERROR_MESSAGE' => 'Ooops. Se pare că pagina nu există.'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formularul nu a fost validat. Unul sau mai multe câmpuri sunt goale.',
                 'NONCE_NOT_VALIDATED' => 'Oops a apărut o problemă, vă rugăm verificați datele introduse și trimiteți formularul din nou.',
@@ -8560,15 +8569,6 @@ Aveți **2FA** activată pentru acest cont. Vă rugăm folosiți aplicația pent
                 'RECAPTCHA_SITE_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați https://developers.google.com/recaptcha',
                 'RECAPTCHA_SECRET_KEY' => 'Cheia secretă pentru Site',
                 'RECAPTCHA_SECRET_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați  https://developers.google.com/recaptcha'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Eroare',
-                'ERROR_MESSAGE' => 'Ooops. Se pare că pagina nu există.'
-            ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Adresa de email nu este configurată',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Vă rugam setați o adresă \'către\' în setările modulului Email sau în formular',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Vă rugam setați o adresă \'de la\' în setările modulului Email sau în formular'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -9644,14 +9644,66 @@ Calea: `%2$s`
                 'COMMAND' => 'Команда',
                 'EXTRA_ARGUMENTS' => 'Дополнительные аргументы'
             ],
-            'PLUGIN_MARKDOWN_NOTICES' => [
-                'USE_BUILT_IN_CSS' => 'Использовать встроенный CSS',
-                'BASE_CLASSES' => 'Базовые классы',
-                'BASE_CLASSES_HELP' => 'Эти классы будут добавлены до уровня класса',
-                'BASE_CLASSES_PLACEHOLDER' => 'например notices',
-                'LEVEL_CLASSES' => 'Классы уровней',
-                'LEVEL_CLASSES_HELP' => 'Эти классы используются на каждом уровне глубины уведомлений',
-                'LEVEL_CLASSES_PLACEHOLDER' => 'например yellow, red, blue, green'
+            'PLUGIN_EMAIL' => [
+                'MAIL_ENGINE' => 'Почтовая система',
+                'MAIL_ENGINE_DISABLED' => 'Отключена',
+                'CONTENT_TYPE' => 'Тип контента',
+                'CONTENT_TYPE_PLAIN_TEXT' => 'Простой текст',
+                'CHARSET' => 'Кодировка',
+                'CHARSET_PLACEHOLDER' => 'По умолчанию UTF-8',
+                'EMAIL_DEFAULTS' => 'Email настройки по умолчанию',
+                'EMAIL_FORM' => 'Почта отправителя',
+                'EMAIL_FORM_PLACEHOLDER' => 'Email адрес отправителя по умолчанию',
+                'EMAIL_FROM_NAME' => 'Имя почты отправителя',
+                'EMAIL_FROM_NAME_PLACEHOLDER' => 'Email имя отправителя по умолчанию',
+                'EMAIL_TO' => 'Почта получателя',
+                'EMAIL_TO_PLACEHOLDER' => 'Email адрес получателя по умолчанию',
+                'EMAIL_TO_NAME' => 'Имя почты получателя',
+                'EMAIL_TO_NAME_PLACEHOLDER' => 'Email имя получателя по умолчанию',
+                'EMAIL_CC' => 'Почта CC',
+                'EMAIL_CC_PLACEHOLDER' => 'Email CC адрес по умолчанию',
+                'EMAIL_CC_NAME' => 'Имя почты CC',
+                'EMAIL_CC_NAME_PLACEHOLDER' => 'Email CC имя по умолчанию',
+                'EMAIL_BCC' => 'Почта BCC',
+                'EMAIL_BCC_PLACEHOLDER' => 'Email BCC адрес по умолчанию',
+                'EMAIL_REPLY_TO' => 'Почта для ответов',
+                'EMAIL_REPLY_TO_PLACEHOLDER' => 'Email для ответов адрес по умолчанию',
+                'EMAIL_REPLY_TO_NAME' => 'Имя почты для ответов',
+                'EMAIL_REPLY_TO_NAME_PLACEHOLDER' => 'Email для ответов имя по умолчанию',
+                'EMAIL_BODY' => 'Тело сообщения',
+                'EMAIL_BODY_PLACEHOLDER' => 'По умолчанию используется таблица всех полей формы',
+                'SMTP_CONFIGURATION' => 'Конфигурация SMTP',
+                'SMTP_SERVER' => 'SMTP сервер',
+                'SMTP_SERVER_PLACEHOLDER' => 'e.g. smtp.google.com',
+                'SMTP_PORT' => 'SMTP порт',
+                'SMTP_PORT_PLACEHOLDER' => 'По умолчанию 25 (plaintext) / 587 (encrypted)',
+                'SMTP_ENCRYPTION' => 'SMTP шифрование',
+                'SMTP_ENCRYPTION_NONE' => 'Нет',
+                'SMTP_LOGIN_NAME' => 'SMTP логин',
+                'SMTP_PASSWORD' => 'SMTP пароль',
+                'SENDMAIL_CONFIGURATION' => 'Конфигурация Sendmail',
+                'PATH_TO_SENDMAIL' => 'Путь к sendmail',
+                'QUEUE_TITLE' => 'Очередь Email',
+                'QUEUE_DESC' => 'Когда вы включаете очередь email, электронная почта не <i>отправляется немедленно</i>, а отправляется в очередь, затем планировщик Grav <strong>обрабатывает очередь</strong> и на основе настроенной частоты фактически отправляет электронную почту. Это гарантирует, что Grav не ждет завершения подключения к электронной почте.',
+                'QUEUE_ENABLED' => 'Включено',
+                'QUEUE_FLUSH_FREQUENCY' => 'Частота обраблтки',
+                'QUEUE_FLUSH_FREQUENCY_HELP' => 'Использовать формат \'cron\'',
+                'QUEUE_FLUSH_MSG_LIMIT' => 'Количество сообщений на задачу',
+                'QUEUE_FLUSH_MSG_LIMIT_APPEND' => 'Сообщений',
+                'QUEUE_FLUSH_TIME_LIMIT' => 'Ограничение времени обработки',
+                'QUEUE_FLUSH_TIME_LIMIT_APPEND' => 'Секунд',
+                'ADVANCED' => 'Расширенные',
+                'DEBUG' => 'Отладка',
+                'EMAIL_NOT_CONFIGURED' => 'Электронная почта не настроена',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Пожалуйста настройте адрес получателя (\'to\') в настройках плагина Email Plugin, или на форме',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Пожалуйста настройте адрес отправителя (\'from\') в настройках плагина Email Plugin, или на форме',
+                'TEST_EMAIL_BODY' => '<h1>Тестирование электронной почты</h1><p>Это тестовое письмо отправлено на основе следующей конфигурации:</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Ошибка',
+                'ERROR_MESSAGE' => 'Упс. Похоже, этой страницы не существует.',
+                'ROUTE_404' => 'Маршрут 404'
             ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Форма не подтверждена. Отсутствует одно или несколько обязательных полей.',
@@ -9718,70 +9770,18 @@ Calea: `%2$s`
                 'INVALID_MIME_TYPE' => 'Тип MIME %s для файла %s не принимается.',
                 'INVALID_FILE_EXTENSION' => 'Расширение файла %s не является допустимым для файла.'
             ],
+            'PLUGIN_MARKDOWN_NOTICES' => [
+                'USE_BUILT_IN_CSS' => 'Использовать встроенный CSS',
+                'BASE_CLASSES' => 'Базовые классы',
+                'BASE_CLASSES_HELP' => 'Эти классы будут добавлены до уровня класса',
+                'BASE_CLASSES_PLACEHOLDER' => 'например notices',
+                'LEVEL_CLASSES' => 'Классы уровней',
+                'LEVEL_CLASSES_HELP' => 'Эти классы используются на каждом уровне глубины уведомлений',
+                'LEVEL_CLASSES_PLACEHOLDER' => 'например yellow, red, blue, green'
+            ],
             'PLUGIN_PROBLEMS' => [
                 'BUILTIN_CSS' => 'Использовать встроенный CSS',
                 'BUILTIN_CSS_HELP' => 'Использовать CSS, предоставленный плагином Problems'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Ошибка',
-                'ERROR_MESSAGE' => 'Упс. Похоже, этой страницы не существует.',
-                'ROUTE_404' => 'Маршрут 404'
-            ],
-            'PLUGIN_EMAIL' => [
-                'MAIL_ENGINE' => 'Почтовая система',
-                'MAIL_ENGINE_DISABLED' => 'Отключена',
-                'CONTENT_TYPE' => 'Тип контента',
-                'CONTENT_TYPE_PLAIN_TEXT' => 'Простой текст',
-                'CHARSET' => 'Кодировка',
-                'CHARSET_PLACEHOLDER' => 'По умолчанию UTF-8',
-                'EMAIL_DEFAULTS' => 'Email настройки по умолчанию',
-                'EMAIL_FORM' => 'Почта отправителя',
-                'EMAIL_FORM_PLACEHOLDER' => 'Email адрес отправителя по умолчанию',
-                'EMAIL_FROM_NAME' => 'Имя почты отправителя',
-                'EMAIL_FROM_NAME_PLACEHOLDER' => 'Email имя отправителя по умолчанию',
-                'EMAIL_TO' => 'Почта получателя',
-                'EMAIL_TO_PLACEHOLDER' => 'Email адрес получателя по умолчанию',
-                'EMAIL_TO_NAME' => 'Имя почты получателя',
-                'EMAIL_TO_NAME_PLACEHOLDER' => 'Email имя получателя по умолчанию',
-                'EMAIL_CC' => 'Почта CC',
-                'EMAIL_CC_PLACEHOLDER' => 'Email CC адрес по умолчанию',
-                'EMAIL_CC_NAME' => 'Имя почты CC',
-                'EMAIL_CC_NAME_PLACEHOLDER' => 'Email CC имя по умолчанию',
-                'EMAIL_BCC' => 'Почта BCC',
-                'EMAIL_BCC_PLACEHOLDER' => 'Email BCC адрес по умолчанию',
-                'EMAIL_REPLY_TO' => 'Почта для ответов',
-                'EMAIL_REPLY_TO_PLACEHOLDER' => 'Email для ответов адрес по умолчанию',
-                'EMAIL_REPLY_TO_NAME' => 'Имя почты для ответов',
-                'EMAIL_REPLY_TO_NAME_PLACEHOLDER' => 'Email для ответов имя по умолчанию',
-                'EMAIL_BODY' => 'Тело сообщения',
-                'EMAIL_BODY_PLACEHOLDER' => 'По умолчанию используется таблица всех полей формы',
-                'SMTP_CONFIGURATION' => 'Конфигурация SMTP',
-                'SMTP_SERVER' => 'SMTP сервер',
-                'SMTP_SERVER_PLACEHOLDER' => 'e.g. smtp.google.com',
-                'SMTP_PORT' => 'SMTP порт',
-                'SMTP_PORT_PLACEHOLDER' => 'По умолчанию 25 (plaintext) / 587 (encrypted)',
-                'SMTP_ENCRYPTION' => 'SMTP шифрование',
-                'SMTP_ENCRYPTION_NONE' => 'Нет',
-                'SMTP_LOGIN_NAME' => 'SMTP логин',
-                'SMTP_PASSWORD' => 'SMTP пароль',
-                'SENDMAIL_CONFIGURATION' => 'Конфигурация Sendmail',
-                'PATH_TO_SENDMAIL' => 'Путь к sendmail',
-                'QUEUE_TITLE' => 'Очередь Email',
-                'QUEUE_DESC' => 'Когда вы включаете очередь email, электронная почта не <i>отправляется немедленно</i>, а отправляется в очередь, затем планировщик Grav <strong>обрабатывает очередь</strong> и на основе настроенной частоты фактически отправляет электронную почту. Это гарантирует, что Grav не ждет завершения подключения к электронной почте.',
-                'QUEUE_ENABLED' => 'Включено',
-                'QUEUE_FLUSH_FREQUENCY' => 'Частота обраблтки',
-                'QUEUE_FLUSH_FREQUENCY_HELP' => 'Использовать формат \'cron\'',
-                'QUEUE_FLUSH_MSG_LIMIT' => 'Количество сообщений на задачу',
-                'QUEUE_FLUSH_MSG_LIMIT_APPEND' => 'Сообщений',
-                'QUEUE_FLUSH_TIME_LIMIT' => 'Ограничение времени обработки',
-                'QUEUE_FLUSH_TIME_LIMIT_APPEND' => 'Секунд',
-                'ADVANCED' => 'Расширенные',
-                'DEBUG' => 'Отладка',
-                'EMAIL_NOT_CONFIGURED' => 'Электронная почта не настроена',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Пожалуйста настройте адрес получателя (\'to\') в настройках плагина Email Plugin, или на форме',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Пожалуйста настройте адрес отправителя (\'from\') в настройках плагина Email Plugin, или на форме',
-                'TEST_EMAIL_BODY' => '<h1>Тестирование электронной почты</h1><p>Это тестовое письмо отправлено на основе следующей конфигурации:</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -10605,14 +10605,17 @@ title: %1$s
                 'BACKUPS_PROFILE_ROOT_FOLDER' => 'Коренева тека',
                 'COMMAND' => 'Команда'
             ],
-            'PLUGIN_MARKDOWN_NOTICES' => [
-                'USE_BUILT_IN_CSS' => 'Використовувати вбудований CSS',
-                'BASE_CLASSES' => 'Базові класи',
-                'BASE_CLASSES_HELP' => 'Ці класи будуть додані до рівня класу',
-                'BASE_CLASSES_PLACEHOLDER' => 'наприклад notices',
-                'LEVEL_CLASSES' => 'Класи рівнів',
-                'LEVEL_CLASSES_HELP' => 'Ці класи використовуються на кожному рівні глибини повідомлень',
-                'LEVEL_CLASSES_PLACEHOLDER' => 'наприклад yellow, red, blue, green'
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Електронна пошта не налаштована',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Будь ласка налаштуйте адресу одержувача (\'to\') в налаштуваннях плагіна Email Plugin, або на формі',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Будь ласка налаштуйте адресу відправника (\'from\') в налаштуваннях плагіна Email Plugin, або на формі',
+                'TEST_EMAIL_BODY' => '<h1>Тестування електронної пошти</h1><p>Це тестовий лист відправлено на основі такої конфігурації:</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Помилка',
+                'ERROR_MESSAGE' => 'Упс. Схоже, цієї сторінки не існує.',
+                'ROUTE_404' => 'Маршрут 404'
             ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Форма не підтверджена. Відсутнє одне або кілька обов\'язкових полів.',
@@ -10673,21 +10676,18 @@ title: %1$s
                 'INVALID_MIME_TYPE' => 'Тип MIME %s для файла %s не приймається.',
                 'INVALID_FILE_EXTENSION' => 'Розширення файлу %s не є допустимим для файлу.'
             ],
+            'PLUGIN_MARKDOWN_NOTICES' => [
+                'USE_BUILT_IN_CSS' => 'Використовувати вбудований CSS',
+                'BASE_CLASSES' => 'Базові класи',
+                'BASE_CLASSES_HELP' => 'Ці класи будуть додані до рівня класу',
+                'BASE_CLASSES_PLACEHOLDER' => 'наприклад notices',
+                'LEVEL_CLASSES' => 'Класи рівнів',
+                'LEVEL_CLASSES_HELP' => 'Ці класи використовуються на кожному рівні глибини повідомлень',
+                'LEVEL_CLASSES_PLACEHOLDER' => 'наприклад yellow, red, blue, green'
+            ],
             'PLUGIN_PROBLEMS' => [
                 'BUILTIN_CSS' => 'Використовувати вбудований CSS',
                 'BUILTIN_CSS_HELP' => 'Використовувати CSS, наданий плагіном Problems'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Помилка',
-                'ERROR_MESSAGE' => 'Упс. Схоже, цієї сторінки не існує.',
-                'ROUTE_404' => 'Маршрут 404'
-            ],
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Електронна пошта не налаштована',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Будь ласка налаштуйте адресу одержувача (\'to\') в налаштуваннях плагіна Email Plugin, або на формі',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Будь ласка налаштуйте адресу відправника (\'from\') в налаштуваннях плагіна Email Plugin, або на формі',
-                'TEST_EMAIL_BODY' => '<h1>Тестування електронної пошти</h1><p>Це тестовий лист відправлено на основі такої конфігурації:</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -13735,6 +13735,10 @@ Máte na svém účtu aktivováno **dvoufaktorové ověřování**. Pro dokonče
                 'COMMAND' => 'Příkaz',
                 'EXTRA_ARGUMENTS' => 'Další argumenty'
             ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Chyba',
+                'ERROR_MESSAGE' => 'A jéje. Vypadá to, že hledaná stránka tu není.'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formulář nebyl ověřen. Chybí jedno nebo více povinných polí.',
                 'NONCE_NOT_VALIDATED' => 'Jejda, došlo k problému, zkontrolujte vstupní stránku a znovu odešlete formulář.',
@@ -13771,10 +13775,6 @@ Máte na svém účtu aktivováno **dvoufaktorové ověřování**. Pro dokonče
                 'DROPZONE_RESPONSE_ERROR' => 'Server vrátil chybový kód: {{statusCode}}.',
                 'YES' => 'Ano',
                 'NO' => 'Ne'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Chyba',
-                'ERROR_MESSAGE' => 'A jéje. Vypadá to, že hledaná stránka tu není.'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -14774,6 +14774,14 @@ Du har **2FA** aktiveret for denne konto. Benyt venligst din **2FA**-app til at 
                 '2FA_REGENERATE' => 'Regenerér',
                 'FORCE_LOWERCASE_URLS' => 'Brug små bogstaver i URL\'er'
             ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurere venligst en \'til\' email adresse i Email Plugin indstillingerne eller her i formularen',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurere venligst en \'fra\' email adresse i Email Plugin indstillingerne eller her i formularen'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Fejl',
+                'ERROR_MESSAGE' => 'Ups. Det ser ud til at siden ikke eksisterer.'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formular ikke valideret. Et eller flere påkrævede felter mangler.',
                 'NONCE_NOT_VALIDATED' => 'Ups der var et problem, tjek venligst dit input og send formularen igen.',
@@ -14831,14 +14839,6 @@ Du har **2FA** aktiveret for denne konto. Benyt venligst din **2FA**-app til at 
                 'DESTINATION_NOT_SPECIFIED' => 'Destination ikke angivet',
                 'INVALID_MIME_TYPE' => 'MIME typen %s for filen %s er ikke accepteret.',
                 'INVALID_FILE_EXTENSION' => 'Filendelsen for filen %s er ikke accepteret.'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Fejl',
-                'ERROR_MESSAGE' => 'Ups. Det ser ud til at siden ikke eksisterer.'
-            ],
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurere venligst en \'til\' email adresse i Email Plugin indstillingerne eller her i formularen',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurere venligst en \'fra\' email adresse i Email Plugin indstillingerne eller her i formularen'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -20147,6 +20147,14 @@ La **2FA** è abilitata per questo account. Si prega di utilizzare la vostra app
                 'ROUTE_CANONICAL' => 'Route canonica',
                 'ROUTE_ALIASES' => 'Alias della route'
             ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Per favore, configura l\'indirizzo di destinazione (\'to\') nella configurazione del Plugin Email, oppure direttamente nella form.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Per favore, configura l\'indirizzo di provenienza (\'from\') nella configurazione del Plugin Email, oppure direttamente nella form'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Errore',
+                'ERROR_MESSAGE' => 'Ooops. A quanto pare, questa pagina non esiste.'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Il Form risulta invalido. Uno o più campi risultano omessi.',
                 'NONCE_NOT_VALIDATED' => 'Oops è stato riscontrato un errore, si prega di ricontrollare i dati inseriti e provare di nuovo.',
@@ -20183,14 +20191,6 @@ La **2FA** è abilitata per questo account. Si prega di utilizzare la vostra app
                 'DROPZONE_RESPONSE_ERROR' => 'Il Server ha risposto con il codice {{statusCode}}.',
                 'YES' => 'Si',
                 'NO' => 'No'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Errore',
-                'ERROR_MESSAGE' => 'Ooops. A quanto pare, questa pagina non esiste.'
-            ],
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Per favore, configura l\'indirizzo di destinazione (\'to\') nella configurazione del Plugin Email, oppure direttamente nella form.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Per favore, configura l\'indirizzo di provenienza (\'from\') nella configurazione del Plugin Email, oppure direttamente nella form'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---Titolo: %1$s---# Errore: Frontmatter non valido: \'%2$s\' * *%3$s * * \' \'%4$s \' \'',
@@ -23313,6 +23313,10 @@ Masz na tym koncie włączone **2FA**. Użyj aplikacji od **2FA** i wprowadź ak
                 'VIEW_SITE_TIP' => 'Wyświetl stronę',
                 'TOOLS_DIRECT_INSTALL_UPLOAD_BUTTON' => 'Prześlij i zainstaluj'
             ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Błąd',
+                'ERROR_MESSAGE' => 'Ups. Wygląda na to, że ta strona nie istnieje.'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formularz został odrzucony. Jedno lub więcej pól wymaga wypełnienia.',
                 'NONCE_NOT_VALIDATED' => 'Ups, pojawił się problem. Proszę sprawdzić, czy wszystkie pola zostały wypełnione i wysłać formularz ponownie.',
@@ -23370,10 +23374,6 @@ Masz na tym koncie włączone **2FA**. Użyj aplikacji od **2FA** i wprowadź ak
                 'DESTINATION_NOT_SPECIFIED' => 'Cel nie został określony',
                 'INVALID_MIME_TYPE' => 'Typ MIME %s dla pliku %s nie jest dozwolony.',
                 'INVALID_FILE_EXTENSION' => 'Rozszerzenie pliku %s nie jest dozwolone.'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Błąd',
-                'ERROR_MESSAGE' => 'Ups. Wygląda na to, że ta strona nie istnieje.'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
