@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1592348415,
-    'checksum' => '38d5765c8f92129629df8098b1cad114',
+    'timestamp' => 1592522095,
+    'checksum' => '4a94cb2cb6d2e11f91e64059d51bd5fe',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -12,6 +12,10 @@ return [
             'media' => [
                 'file' => 'user/config/media.yaml',
                 'modified' => 1592348367
+            ],
+            'plugins/leaflet' => [
+                'file' => 'user/config/plugins/leaflet.yaml',
+                'modified' => 1592522095
             ],
             'scheduler' => [
                 'file' => 'user/config/scheduler.yaml',
@@ -76,6 +80,14 @@ return [
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
                 'modified' => 1592348367
+            ],
+            'plugins/leaflet' => [
+                'file' => 'user/plugins/leaflet/leaflet.yaml',
+                'modified' => 1592521575
+            ],
+            'plugins/lightslider' => [
+                'file' => 'user/plugins/lightslider/lightslider.yaml',
+                'modified' => 1592518253
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
@@ -216,6 +228,47 @@ return [
                     'site_key' => NULL,
                     'secret_key' => NULL
                 ]
+            ],
+            'leaflet' => [
+                'enabled' => false,
+                'id' => 'leaflet',
+                'width' => 600,
+                'height' => 450,
+                'class' => 'leaflet',
+                'lat' => '51',
+                'lng' => '0',
+                'lat_marker' => '51',
+                'lng_marker' => '0',
+                'address' => 'London',
+                'zoom' => 15
+            ],
+            'lightslider' => [
+                'enabled' => true,
+                'built_in_css' => true,
+                'slider_type' => 'text',
+                'type_text_height' => 'auto',
+                'type_text_vertical_padding' => '80px',
+                'type_text_horizontal_padding' => '50px',
+                'type_text_brightness' => 0,
+                'item' => 1,
+                'slideMove' => 1,
+                'slideMargin' => 0,
+                'loop' => 'false',
+                'mode' => 'fade',
+                'controls' => 'true',
+                'keyPress' => 'true',
+                'auto' => 'true',
+                'pause' => 2000,
+                'speed' => 1000,
+                'pager' => 'true',
+                'gallery' => 'false',
+                'gallery_thumb_width' => 100,
+                'gallery_thumb_height' => 100,
+                'gallery_margin' => 15,
+                'gallery_thumb_margin' => 5,
+                'enableTouch' => 'true',
+                'enableDrag' => 'true',
+                'pauseOnHover' => 'false'
             ],
             'login' => [
                 'enabled' => true,
