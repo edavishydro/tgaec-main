@@ -10,7 +10,7 @@ image_align: left
 
 <div class="container">
   <div class="columns">
-    <div class="column col-4 col-sm-12">
+    <div class="column col-3 col-sm-12">
     <a href="/skills-and-services#adcp">
       <div class="card">
         <div class="card-image">
@@ -22,7 +22,7 @@ image_align: left
       </div>
     </a>
     </div>
-    <div class="column col-4 col-sm-12">
+    <div class="column col-3 col-sm-12">
     <a href="//skills-and-services#water-quality">
       <div class="card">
         <div class="card-image">
@@ -34,7 +34,7 @@ image_align: left
       </div>
     </a>
     </div>
-    <div class="column col-4 col-sm-12">
+    <div class="column col-3 col-sm-12">
     <a href="/skills-and-services#streamflow">
       <div class="card">
         <div class="card-image">
@@ -46,7 +46,7 @@ image_align: left
       </div>
     </a>
     </div>
-    <div class="column col-4 col-xs-12">
+    <div class="column col-3 col-xs-12">
     <a href="/skills-and-services#fisheries">
       <div class="card">
         <div class="card-image">
@@ -58,7 +58,7 @@ image_align: left
       </div>
     </a>
     </div>
-    <div class="column col-4 col-xs-12">
+    <div class="column col-3 col-xs-12">
     <a href="/skills-and-services#enviro-compliance">
       <div class="card">
         <div class="card-image">
@@ -70,14 +70,38 @@ image_align: left
       </div>
     </a>
     </div>
-    <div class="column col-4 col-xs-12">
-    <a href="/skills-and-services#hydrology">
+    <div class="column col-3 col-xs-12">
+    <a href="/skills-and-services#restoration">
       <div class="card">
         <div class="card-image">
-            <img src="../../assets/Icons-06.png" class="img-responsive">
+            <img src="../../assets/Icons-08.png" class="img-responsive">
         </div>
         <div class="card-header">
-        <div class="card-title h5 text-dark">Hydrology</div>
+        <div class="card-title h5 text-dark">Restoration</div>
+        </div>
+      </div>
+    </a>
+    </div>
+    <div class="column col-3 col-xs-12">
+    <a href="/skills-and-services#gis">
+      <div class="card">
+        <div class="card-image">
+            <img src="../../assets/Icons-07.png" class="img-responsive">
+        </div>
+        <div class="card-header">
+        <div class="card-title h5 text-dark">GIS and Mapping</div>
+        </div>
+      </div>
+    </a>
+    </div>
+    <div class="column col-3 col-xs-12">
+    <a href="/skills-and-services#monitoring">
+      <div class="card">
+        <div class="card-image">
+            <img src="../../assets/Icons-09.png" class="img-responsive">
+        </div>
+        <div class="card-header">
+        <div class="card-title h5 text-dark">Construction Monitoring</div>
         </div>
       </div>
     </a>

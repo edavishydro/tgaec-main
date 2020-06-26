@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1592522095,
-    'checksum' => '4a94cb2cb6d2e11f91e64059d51bd5fe',
+    'timestamp' => 1593137158,
+    'checksum' => '90218d644ca35b1b82dc70112cd66489',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -15,7 +15,7 @@ return [
             ],
             'plugins/leaflet' => [
                 'file' => 'user/config/plugins/leaflet.yaml',
-                'modified' => 1592522095
+                'modified' => 1592865355
             ],
             'scheduler' => [
                 'file' => 'user/config/scheduler.yaml',
@@ -83,11 +83,11 @@ return [
             ],
             'plugins/leaflet' => [
                 'file' => 'user/plugins/leaflet/leaflet.yaml',
-                'modified' => 1592521575
+                'modified' => 1592863865
             ],
             'plugins/lightslider' => [
                 'file' => 'user/plugins/lightslider/lightslider.yaml',
-                'modified' => 1592518253
+                'modified' => 1593137151
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
@@ -230,17 +230,17 @@ return [
                 ]
             ],
             'leaflet' => [
-                'enabled' => false,
+                'enabled' => true,
                 'id' => 'leaflet',
                 'width' => 600,
                 'height' => 450,
                 'class' => 'leaflet',
-                'lat' => '51',
-                'lng' => '0',
-                'lat_marker' => '51',
-                'lng_marker' => '0',
-                'address' => 'London',
-                'zoom' => 15
+                'lat' => '41',
+                'lng' => '-124.0',
+                'lat_marker' => '40.868132',
+                'lng_marker' => '-124.086947',
+                'address' => 'Arcata',
+                'zoom' => 16
             ],
             'lightslider' => [
                 'enabled' => true,
@@ -261,7 +261,7 @@ return [
                 'pause' => 2000,
                 'speed' => 1000,
                 'pager' => 'true',
-                'gallery' => 'false',
+                'gallery' => 'true',
                 'gallery_thumb_width' => 100,
                 'gallery_thumb_height' => 100,
                 'gallery_margin' => 15,

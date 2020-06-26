@@ -8,6 +8,8 @@ content:
         dir: asc
         custom:
             - _hero
+            - _lightslider
+            - _news
             - _skills-and-services
             - _project-showcase
             - _our-team

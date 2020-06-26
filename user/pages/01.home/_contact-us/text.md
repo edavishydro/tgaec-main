@@ -1,9 +1,13 @@
 ---
 title: Contact Us
 hero_classes: hero-large
+
+leaflet:
+  id: "leaflet"
+  zoom: 20
 ---
 
-###Contact Us 
+###Contact Us
 
 >791 8th Street, Suite H, Arcata CA
 
@@ -13,3 +17,5 @@ hero_classes: hero-large
 
 >tgast@tgaec.com
 
+
+<div id="leaflet"> </div>

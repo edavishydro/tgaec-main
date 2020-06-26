@@ -4,9 +4,9 @@ id: "leaflet"
 width: 600
 height: 450
 class: "leaflet"
-lat: "51"
-lng: "0"
-lat_marker: "51"
-lng_marker: "0"
+lat: "41"
+lng: "124"
+lat_marker: "40.868132"
+lng_marker: "-124.0874955"
 address: "London"
-zoom: 15
+zoom: 18

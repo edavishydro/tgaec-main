@@ -1,5 +1,5 @@
 ---
-title: "Our Team"
+title: "Skills and Services"
 content:
   items: "@self.modular"
   order:

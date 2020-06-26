@@ -1,0 +1,22 @@
+{
+  "name": "styling",
+  "version": "1.0.0",
+  "description": "styling test with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "style_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edavishydro/tgaec-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edavishydro/tgaec-main/issues"
+  },
+  "homepage": "https://github.com/edavishydro/tgaec-main#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
