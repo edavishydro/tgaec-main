@@ -6,9 +6,9 @@ content:
     by: default
     dir: asc
     custom:
-           - _hero
-           - _skills-and-services
-           - _project-showcase
-           - _our-team
-           - _contact-us
+           - _non-natal
+           - _eel-river-groundwater
+           - _sound-exposure
+	   - _carmel-river
 ---
+
