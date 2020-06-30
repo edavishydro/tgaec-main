@@ -1,7 +1,7 @@
 ---
 title: Slider Content
 routable: false
-visible: true
+visible: false
 lightslider:
     item: 3
     slider_type: image

@@ -18,7 +18,7 @@ Granite Construction was the selected Design-Build construction contractor respo
 
 <br>
 
-<div class="h6 text-dark" style="padding:10px; float: right; background-color:rgb(225,221,200)">
+<div class="h6 text-dark" style="padding:10px; float: right; background-color:rgb(225,221,200);">
 Client Contact: <br>
 Douglas Parkinson, Principal Scientist <br>
 Douglas Parkinson & Associates <br>

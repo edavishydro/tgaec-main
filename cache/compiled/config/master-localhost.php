@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1593137158,
-    'checksum' => '90218d644ca35b1b82dc70112cd66489',
+    'timestamp' => 1593455834,
+    'checksum' => 'e873f9dc822ac8cb35642180dba83022',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -15,7 +15,7 @@ return [
             ],
             'plugins/leaflet' => [
                 'file' => 'user/config/plugins/leaflet.yaml',
-                'modified' => 1592865355
+                'modified' => 1593455289
             ],
             'scheduler' => [
                 'file' => 'user/config/scheduler.yaml',
@@ -83,11 +83,11 @@ return [
             ],
             'plugins/leaflet' => [
                 'file' => 'user/plugins/leaflet/leaflet.yaml',
-                'modified' => 1592863865
+                'modified' => 1593455289
             ],
             'plugins/lightslider' => [
                 'file' => 'user/plugins/lightslider/lightslider.yaml',
-                'modified' => 1593137151
+                'modified' => 1593455289
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',

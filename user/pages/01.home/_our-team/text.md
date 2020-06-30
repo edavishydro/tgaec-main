@@ -2,7 +2,7 @@
 title: "Our Team"
 ---
 
-### Our Team
+### [Our Team](/our-team)
 
 <div class="container">
   <div class="columns">
@@ -10,7 +10,7 @@ title: "Our Team"
     <a href="/our-team#tom-gast">
       <div class="card">
         <div class="card-image">
-            <img src="../../assets/osx-el-capitan.jpg" class="img-responsive img-fit-cover">
+            <img src="../our-team/_tom-gast/tgast.jpg" class="img-responsive img-fit-cover">
         </div>
         <div class="card-header">
         <div class="card-title h5 text-dark">Thomas Gast</div>
@@ -23,7 +23,7 @@ title: "Our Team"
     <a href="/our-team#hans-voight">
       <div class="card">
         <div class="card-image">
-            <img src="../../assets/osx-el-capitan.jpg" class="img-responsive">
+            <img src="../our-team/_hans-voight/hvoight.jpg" class="img-responsive">
         </div>
         <div class="card-header">
         <div class="card-title h5 text-dark">Hans Voight</div>
@@ -36,7 +36,7 @@ title: "Our Team"
     <a href="/our-team#dr-isidro-bosch">
       <div class="card">
         <div class="card-image">
-            <img src="../../assets/osx-el-capitan.jpg" class="img-responsive">
+            <img src="../our-team/_dr-bosch/ibosch.jpg" class="img-responsive">
         </div>
         <div class="card-header">
         <div class="card-title h5 text-dark">Dr. Isidro Bosch</div>
@@ -49,7 +49,7 @@ title: "Our Team"
     <a href="/our-team#joshua-cahill">
       <div class="card">
         <div class="card-image">
-            <img src="../../assets/osx-el-capitan.jpg" class="img-responsive">
+            <img src="../our-team/_josh-cahill/jcahill.jpg" class="img-responsive">
         </div>
         <div class="card-header">
         <div class="card-title h5 text-dark">Joshua Cahill</div>
@@ -62,7 +62,7 @@ title: "Our Team"
     <a href="/our-team#brian-murphy">
       <div class="card">
         <div class="card-image">
-            <img src="../../assets/osx-el-capitan.jpg" class="img-responsive">
+            <img src="../our-team/_brian-murphy/bmurphy.png" class="img-responsive">
         </div>
         <div class="card-header">
         <div class="card-title h5 text-dark">Brian Murphy</div>
@@ -75,7 +75,7 @@ title: "Our Team"
     <a href="/our-team#edward-davis">
       <div class="card">
         <div class="card-image">
-            <img src="../../assets/osx-el-capitan.jpg" class="img-responsive">
+            <img src="../our-team/_edward-davis/edavis.jpg" class="img-responsive">
         </div>
         <div class="card-header">
         <div class="card-title h5 text-dark">Edward Davis</div>
@@ -88,7 +88,7 @@ title: "Our Team"
     <a href="/our-team#mr-windsor">
       <div class="card">
         <div class="card-image">
-            <img src="../../assets/osx-el-capitan.jpg" class="img-responsive">
+            <img src="../our-team/_windsor/jwindsor.jpg" class="img-responsive">
         </div>
         <div class="card-header">
         <div class="card-title h5 text-dark">Mr. Windsor</div>
