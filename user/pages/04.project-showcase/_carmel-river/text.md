@@ -17,13 +17,3 @@ Granite Construction was the selected Design-Build construction contractor respo
 </div>
 
 <br>
-
-<div class="h6 text-dark" style="padding:10px; float: right; background-color:rgb(225,221,200);">
-Client Contact: <br>
-Douglas Parkinson, Principal Scientist <br>
-Douglas Parkinson & Associates <br>
-890 L Street <br>
-Arcata, CA  95521 <br>
-Phone: 707-826-0844 <br>
-Email: dpa4@sonic.net <br>
-</div>

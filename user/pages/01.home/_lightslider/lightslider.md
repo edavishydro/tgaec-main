@@ -4,6 +4,7 @@ routable: false
 visible: false
 lightslider:
     item: 3
+    loop: 'true'
     slider_type: image
     autoWidth: 'false'
     type_text_vertical_padding: 70px
@@ -11,6 +12,7 @@ lightslider:
     type_text_brightness: -100
     mode: slide
     pager: 'true'
+    gallery: 'false'
     controls: 'true'
     keyPress: 'true'
     pause: 5000

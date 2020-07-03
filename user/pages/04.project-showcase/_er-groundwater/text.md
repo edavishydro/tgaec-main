@@ -15,13 +15,3 @@ As an alternative to developing a groundwater sustainability plan, the SGMA cont
 TGAEC’s primary responsibility for this project was to inform the construction of a Water Balance Model for the basin from surface flow measurements taken from multiple locations on both the mainstem Eel and the lower Van Duzen River - an important lower Eel River tributary.  Analysis of surface flow data was identified as a critical piece of the water balance, and Mr. Gast was selected to be responsible for the final siting, design, and implementation of the surface water measurements (Figure 2).  He is also supervising QA/QC of all field data and outputs from the software, and is preparing final reports and figures.
 <br>
 </div>
-
-<div class="h6 text-dark" style="padding:10px; float: right; background-color:rgb(225,221,200)">
-Client Contact: <br>
-Hank Seemann, Deputy Director of Environmental Services <br>
-County of Humboldt <br>
-1106 2nd Street <br>
-Eureka, CA 95501 <br>
-Phone: 707-445-7741 <br>
-Hseemann@co.hum.ca.us  <br>
-</div>

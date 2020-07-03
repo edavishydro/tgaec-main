@@ -1,6 +1,7 @@
 ---
 title: 'Water Quality'
 image_align: left
+visible: false
 ---
 
 ####Water Quality Monitoring

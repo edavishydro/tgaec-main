@@ -1,6 +1,7 @@
 ---
 title: 'ADCP and Sidescan Sonar'
 image_align: left
+visible: false
 ---
 #####ADCP and Sidescan Sonar
 

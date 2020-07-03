@@ -20,12 +20,3 @@ Our project will address the relative lack of non-natal rearing habitats in the 
 
 <br>
 
-<div class="h6 text-dark" style="padding:10px; float: right; background-color:rgb(225,221,200)">
-Client Contact: <br>
-Mitch Farro  <br>
-Pacific Coast Fish, Wildlife and Wetlands Restoration Association    <br>
-PO Box 4574    <br>
-Arcata, CA 95518    <br>
-Phone:	707-839-5664    <br>
-Email: 	mitch@pcfwwra.org     <br>
-</div>

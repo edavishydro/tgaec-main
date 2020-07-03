@@ -1,6 +1,7 @@
 ---
 title: 'Fisheries'
 image_align: left
+visible: false
 ---
 ####Fisheries
 

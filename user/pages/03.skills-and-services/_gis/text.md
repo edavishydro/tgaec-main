@@ -1,6 +1,7 @@
 ---
 title: 'GIS'
 image_align: left
+visible: false
 ---
 
 ####GIS and Image Analysis

@@ -2,20 +2,16 @@
 title: Contact Us
 hero_classes: hero-large
 
-leaflet:
-  id: "leaflet"
-  zoom: 20
 ---
 
 ###Contact Us
 
->791 8th Street, Suite H, Arcata CA
+>Thomas Gast & Associates Environmental Consultants
+
+>PO Box 1137, Arcata, California 95518
 
 >+1.707 822-8544 office
 
->+1.707 845-8544 cell
-
 >tgast@tgaec.com
 
-
-<div id="leaflet"> </div>
+>Located in the Historic Jacoby Storehouse on the Arcata Plaza, 4th floor, Suite H

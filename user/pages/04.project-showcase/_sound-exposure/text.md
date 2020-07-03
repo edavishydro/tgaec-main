@@ -14,13 +14,3 @@ In order to monitor for potential adverse impacts to Federal and state-listed en
 </div>
 
 <br>
-
-<div class="h6 text-dark" style="padding:10px; float: right; background-color:rgb(225,221,200);">
-Client Contact:
-Tom Taylor, Principal Associate  <br>
-ESA- Biological Resources and Land Management    <br>
-2600 Capitol Avenue, Suite 200    <br>
-Sacramento, CA 95816    <br>
-Phone: 916-231-1256    <br>
-ttaylor@esaassoc.com     <br>
-</div>
