@@ -1,0 +1,19 @@
+{% for post in page.collection if post.header.hide_from_list != true%}
+{% set image = post.media.images|first %}
+
+<div class="column col-4 col-sm-12">
+    <div class="card showcase-card">
+        {% if image %}
+        <div class="card-image">
+            {{ image.cropResize(300,200).html|raw }}
+        </div>
+        {% endif %}
+        <div class="card-header">
+            <a href="{{ post.url|dirname }}">
+                <div class="card-title h5 text-dark">{{ post.title }}</div>
+                <div class="card-subtitle text-gray">{{ post.header.dates }}</div>
+            </a>
+        </div>
+    </div>
+</div>
+{% endfor %}

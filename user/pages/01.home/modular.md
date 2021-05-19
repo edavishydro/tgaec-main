@@ -1,6 +1,5 @@
 ---
 title: Home
-body_classes: 'title-center title-h1h2'
 content:
     items: '@self.modular'
     order:
@@ -8,11 +7,12 @@ content:
         dir: asc
         custom:
             - _hero
-            - _lightslider
             - _news
             - _skills-and-services
-            - _project-showcase
+            - _showcase
             - _our-team
-            - _contact-us
+            - _lightslider
+process:
+    markdown: true
+    twig: true
 ---
-

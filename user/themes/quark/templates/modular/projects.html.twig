@@ -1,0 +1,12 @@
+{% set grid_size = theme_var('grid-size') %}
+
+<section class="section modular-text {{ page.header.class }} bg-gray">
+    <section class="container {{ grid_size }}">
+        <div class="columns newsfeed">
+            <div class="column col-12">
+                {{ content|raw }}
+            </div>
+        {% include 'partials/projpart.html.twig' %}
+        </div>
+    </section>
+</section>

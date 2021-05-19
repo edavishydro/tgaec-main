@@ -1,11 +1,11 @@
 enabled: true
 id: leaflet
-width: 600
-height: 450
+width: 400
+height: 250
 class: leaflet
 lat: '41'
-lng: '-124.0'
+lng: '-124.087'
 lat_marker: '40.868132'
 lng_marker: '-124.086947'
-address: Arcata
-zoom: 16
+address: 'Thomas Gast & Assoc. Env. Consultants'
+zoom: 18

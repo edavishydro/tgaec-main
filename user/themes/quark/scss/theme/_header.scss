@@ -19,7 +19,7 @@
   }
 
   .header-dark &:not(.scrolled) {
-    background: $header-color-dark;
+    background: $primary-color;
     color: $light-color;
     a {
       color: rgba($light-color, 0.7) !important;

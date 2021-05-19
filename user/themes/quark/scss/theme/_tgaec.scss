@@ -1,9 +1,130 @@
+@import '../spectre/media';
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0rem;
+}
+
+.h3 {
+  color: $blue
+}
+
 .modular-text {
+  padding: 2rem;
   .column {
     padding: 0.4rem;
+  }
+  .employee-card {
+    .card-image {
+      height: 15rem;
+      display: block;
+      position: relative;
+      overflow: hidden;
+      img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+      }
+    }
+  }
+}
+
+.news-card {
+  .card-image {
+    height: 10rem;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+    }
+  }
+}
+
+.showcase-card {
+  .card-image {
+    height: 10rem;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+    }
   }
 }
 
 .shadows img {
   box-shadow: 0 0.25rem 1rem rgba(48, 55, 66, 0.15);
+}
+
+.modular-hero {
+  .image-overlay {
+    background: linear-gradient(to bottom,transparentize($v-dark-blue, 0.4),transparentize($light-green, 0.6));
+  }
+}
+
+.hero.text-light h2 {
+  color: rgba(255,255,255,1);
+}
+
+.header-fixed .hero {
+  background-position: 50% 30%;
+}
+
+#header {
+  background: $dark-green;
+  font-size: 0.8rem;
+  font-weight: 500;
+  a {
+    color: lighten($gray-color, 25%);
+  }
+  a.active {
+    color: $gray-color !important;
+  }
+  .logo {
+    svg, img {
+      height: 3.5rem;
+    }
+  }
+}
+
+.bg-green {
+  background: $dark-green;
+}
+
+.bg-dark-gray {
+  background: darken($gray-color, 40%)
+}
+
+.bg-dark-blue {
+  background: $dark-blue;
+}
+
+.bg-light-green {
+  background: $light-green;
+}
+
+#footer {
+  padding: 1rem $horiz-padding 0.5rem;
+  color: lighten($gray-color, 15%);
+  .column {
+    padding: 1rem;
+  }
+  text-align: left;
+}
+
+.leaflet-container {
+  height: 15rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.leaflet-popup-content {
+  color: $dark-color;
 }

@@ -1,5 +1,16 @@
-<section id="footer" class="section bg-gray">
+<section id="footer" class="section bg-dark-blue">
     <section class="container {{ grid_size }}">
-        <p><a href="http://getgrav.org">Grav</a> was <i class="fa fa-code"></i> with <i class="fa fa-heart-o pulse "></i> by <a href="https://trilby.media">Trilby Media</a>.</p>
+        <div class="columns">
+            <div class="column col-4 col-sm-12">
+            <p>Thomas Gast & Associates Environmental Consultants is a California-certified small business: SB# 1796367</p>
+            <p>Mailing address:</br>PO Box 1137</br>Arcata, CA 95518</p>
+            <p>Office phone:</br>+1 707 822 8544</p>
+            </div>
+            <div class="column col-4 col-sm-12">
+                <p>Our offices are located in the Historic Jacoby Storehouse on the Arcata Plaza, 4th floor, Suite H</p>
+                {% include 'map.html.twig' with {'page': page.find('/location')} %}
+            </div>
+            <div class="column col-4 col-sm-12">Links</div>
+        </div>
     </section>
 </section>

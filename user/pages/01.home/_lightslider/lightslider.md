@@ -1,6 +1,5 @@
 ---
-title: Slider Content
-routable: false
+title: 'Slider Content'
 visible: false
 lightslider:
     item: 3
@@ -18,3 +17,4 @@ lightslider:
     pause: 5000
     speed: 2000
 ---
+
